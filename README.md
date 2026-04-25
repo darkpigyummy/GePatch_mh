@@ -1,7 +1,6 @@
 # Ge MH Patch (PSP/PSVita)
-This project is a modified and specialized fork of GePatch, focused on Monster Hunter Portable 3rd compatibility.
-A lightweight GE patch plugin optimized for **Monster Hunter Portable 3rd**.
-Focuses on improving **frame pacing, responsiveness, and combat stability**, rather than chasing unstable maximum performance.
+This project is a modified and specialized fork of GePatch, designed for Monster Hunter Portable 3rd compatibility.
+A lightweight GE patch plugin focused on improving frame pacing, input responsiveness, 和 combat stability—rather than maximizing unstable performance.
 
 ---
 
@@ -111,10 +110,9 @@ See the [LICENSE](./LICENSE) file for full details.
 ---
 
 # 中文说明
-本项目是基于 GePatch 修改的分支版本，专门针对《怪物猎人P3》进行适配优化。
-一个针对《怪物猎人P3》的 GE 优化插件，核心目标不是极限帧数，而是：
+本项目是 GePatch 的修改与专用分支版本，面向《怪物猎人携带版3rd》（Monster Hunter Portable 3rd）进行适配优化。
 
-👉 **战斗稳定性 + 操作手感**
+这是一个轻量级 GE（Graphics Engine）补丁插件，重点优化帧节奏、输入响应与战斗稳定性，而不是追求不稳定的极限性能提升。
 
 ---
 
