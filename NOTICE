@@ -1,0 +1,11 @@
+NOTICE
+
+This project is based on the original GePatch project.
+
+Modifications include:
+- Renamed to ge_mh_patch.prx
+- Adjusted GU blend/color hook behavior
+- Tuned for Monster Hunter Portable 3rd compatibility
+- Updated plugin loading paths for Adrenaline 7/8 + ARK5/EPI
+
+Original authors retain their respective copyrights.
