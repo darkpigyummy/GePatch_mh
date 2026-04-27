@@ -2,7 +2,7 @@ NOTICE
 
 This project is based on the original GePatch project by TheOfficialFloW.
 
-Modifications include:
+Modifications by darkpigyummy include:
 - Renamed to ge_mh_patch.prx
 - Adjusted GU blend/color hook behavior
 - Tuned for Monster Hunter Portable 3rd compatibility
