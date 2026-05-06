@@ -3,6 +3,9 @@ This project is a modified and specialized fork of GePatch, designed for Monster
 A lightweight GE patch plugin focused on improving frame pacing, input responsiveness, 和 combat stability—rather than maximizing unstable performance.
 
 ---
+## 🎯 Goal
+
+This project focuses on **p3-specific gepatch optimizations rather than general support**.
 
 ## ✨ Features
 
@@ -66,6 +69,12 @@ game, ms0:/seplugins/ge_mh_patch.prx, on
 ```
 
 ---
+## 📘 Guides
+
+- 👉 CheatMaster&Gepatch
+  CheatMaster & Gepatch exploits a compatibility vulnerability; the specific steps are detailed in the file below.
+  please refer to the [CheatMaster + GePatch Usage Guide](./cheatmaster.md)file.
+
 
 ## ⚠️ Notes
 
@@ -115,6 +124,9 @@ See the [LICENSE](./LICENSE) file for full details.
 这是一个轻量级 GE（Graphics Engine）补丁插件，重点优化帧节奏、输入响应与战斗稳定性，而不是追求不稳定的极限性能提升。
 
 ---
+## 🎯目标
+
+本项目侧重于**p3的专用gepatch优化而非通用支持**。
 
 ## ✨ 特性
 
@@ -184,7 +196,12 @@ game, ms0:/seplugins/ge_mh_patch.prx, on
 ```
 
 ---
+## 📘 指南
 
+- 👉 CheatMaster&Gepatch
+  CheatMaster&Gepatch利用漏洞兼容，具体步骤在下面的文件中。
+  请参阅 [CheatMaster + GePatch Usage Guide](./cheatmaster.md)file.
+  
 ## ⚠️ 注意
 
 * 主要针对《怪物猎人P3》优化
