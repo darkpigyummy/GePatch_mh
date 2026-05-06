@@ -74,9 +74,10 @@ game, ms0:/seplugins/ge_mh_patch.prx, on
 
 - 👉 CheatMaster&Gepatch
   CheatMaster & Gepatch exploits a compatibility vulnerability; the specific steps are detailed in the file below.
-  please refer to the [CheatMaster + GePatch Usage Guide](./cheatmaster.md)file.
+  please refer to the [CheatMaster + GePatch Usage Guide](./cheatmaster.md)文件。
 
-
+- Except for racing games, most GePatch-compatible titles can use this method to run CheatMaster together.  
+  Verified across multiple game types.
 ## ⚠️ Notes
 
 * Designed primarily for **Monster Hunter Portable 3rd**
@@ -202,7 +203,9 @@ game, ms0:/seplugins/ge_mh_patch.prx, on
 - 👉 CheatMaster&Gepatch
   CheatMaster&Gepatch利用漏洞兼容，具体步骤在下面的文件中。
   请参阅 [CheatMaster + GePatch Usage Guide](./cheatmaster.md)file.
-  
+- 除赛车类游戏外，大部分支持 GePatch 的游戏均可通过该方法同时兼容 CheatMaster。
+  已在多种类型游戏中验证。
+   
 ## ⚠️ 注意
 
 * 主要针对《怪物猎人P3》优化
