@@ -20,7 +20,7 @@ CheatMaster & GePatch_MH 使用方法
 注意事项：
 
 本方法必须在进入游戏正式地图前使用
-若在游戏过程中（如进入地图后）再操作，可能导致死机
+若在游戏过程中（如进入地图后）再操作，可能导致死机。
 
 
 
@@ -51,4 +51,4 @@ Both plugins will now be loaded and working together.
 Notes:
 
 This method must be performed before entering the in-game map
-Using it later may result in a system freeze/crash
+Using it later may result in a system freeze/crash.
