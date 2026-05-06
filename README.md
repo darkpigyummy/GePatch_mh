@@ -1,4 +1,5 @@
-# Ge MH Patch (PSP/PSVita)
+# Ge MHp3 Patch (PSP/PSVita)
+
 This project is a modified and specialized fork of GePatch, designed for Monster Hunter Portable 3rd compatibility.
 A lightweight GE patch plugin focused on improving frame pacing, input responsiveness, 和 combat stability—rather than maximizing unstable performance.
 
@@ -126,7 +127,7 @@ See the [LICENSE](./LICENSE) file for full details.
 ---
 ## 🎯目标
 
-本项目侧重于**p3的专用gepatch优化而非通用支持**。
+本项目侧重于**mhp3的专用gepatch优化而非通用支持**。
 
 ## ✨ 特性
 
