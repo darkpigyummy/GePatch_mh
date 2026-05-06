@@ -78,6 +78,9 @@ game, ms0:/seplugins/ge_mh_patch.prx, on
 
 - Except for racing games, most GePatch-compatible titles can use this method to run CheatMaster together.  
   Verified across multiple game types.
+  
+- Tested: P3P, Akiba’s Trip 2, Valkyria Chronicles 2, Black Rock Shooter, Naruto, .hack, Steins;Gate, Mega Man, etc.
+  
 ## ⚠️ Notes
 
 * Designed primarily for **Monster Hunter Portable 3rd**
@@ -203,9 +206,11 @@ game, ms0:/seplugins/ge_mh_patch.prx, on
 - 👉 CheatMaster&Gepatch
   CheatMaster&Gepatch利用漏洞兼容，具体步骤在下面的文件中。
   请参阅 [CheatMaster + GePatch Usage Guide](./cheatmaster.md)file.
+  
 - 除赛车类游戏外，大部分支持 GePatch 的游戏均可通过该方法同时兼容 CheatMaster。
   已在多种类型游戏中验证。
-   
+  
+- 已测试：P3P、秋叶原之旅2、战场女武神2、黑岩射手、火影、.hack、命运石之门、洛克人等  
 ## ⚠️ 注意
 
 * 主要针对《怪物猎人P3》优化
