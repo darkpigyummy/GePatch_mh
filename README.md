@@ -21,7 +21,7 @@ This project focuses on **p3-specific gepatch optimizations rather than general 
 
 ---
 
-## 🎯 Design Philosophy
+## 🎻 Design Philosophy
 
 This patch does **not aim for maximum FPS at all costs**.
 
