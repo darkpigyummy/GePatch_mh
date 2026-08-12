@@ -110,14 +110,14 @@ The goal is to **keep the engine predictable and responsive**, especially during
 This is an experimental optimization plugin.
 Results may vary depending on device, firmware, 和 game state.
 
-## Notice
+## 🔔 Notice
 
 This project is based on the original GePatch project and includes modifications.
 
 For detailed attribution, modifications, 和 copyright information,
 please refer to the [NOTICE](./NOTICE) file.
 
-## License
+## 📄 License
 
 This project is licensed under the GPL-2.0 License, with additional notices from PSPSDK.
 
