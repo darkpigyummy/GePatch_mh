@@ -1,6 +1,6 @@
 [English](README.md) | 简体中文
 
-# 中文说明
+# Ge MHp3 Patch (PSP/PSVita) 
 本项目是 GePatch 的修改与专用分支版本，面向《怪物猎人携带版3rd》（Monster Hunter Portable 3rd）进行适配优化。
 
 这是一个轻量级 GE（Graphics Engine）补丁插件，重点优化帧节奏、输入响应与战斗稳定性，而不是追求不稳定的极限性能提升。
